@@ -2,3 +2,13 @@
   margin: 1rem auto;
   text-align: center;
 }
+body {
+  font-size: 1.5rem;
+}
+p {
+  font-weight: bold;
+}
+a {
+  display: block;
+  margin-bottom: 1rem;
+}
